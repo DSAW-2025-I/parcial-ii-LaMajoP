@@ -43,3 +43,6 @@ Este examen evalúa tu capacidad para construir un backend básico usando Expres
 - Agregue el enlace del repositorio desplegado al README.
 
 ¡Buena suerte!
+
+# Link:
+https://parcial-desplegado.vercel.app/
